@@ -1,5 +1,4 @@
-# Pascal`s Triangle  
-# Python3
+# Python3基础算法： Pascal`s Triangle  
 
     # -*- coding = utf-8 -*-
  
