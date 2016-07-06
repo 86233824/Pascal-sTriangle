@@ -1,4 +1,4 @@
-# Pascal`s Triangle.py    
+# Pascal`s Triangle  
 # Python3
 
     # -*- coding = utf-8 -*-
