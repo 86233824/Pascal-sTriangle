@@ -1,4 +1,6 @@
 # Pascal-sTriangle
+杨辉三角    帕斯卡三角
+
     # -*- coding = utf-8 -*-
  
     def triangles():
