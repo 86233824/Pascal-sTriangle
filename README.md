@@ -1,5 +1,5 @@
-# Pascal-sTriangle
-杨辉三角    帕斯卡三角
+# Pascal`s Triangle.py    
+# Python3
 
     # -*- coding = utf-8 -*-
  
